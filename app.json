@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/FriDayXD/ProMusic",
+    "repository": "https://github.com/drlucifer2003/helltest",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
